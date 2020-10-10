@@ -4,14 +4,14 @@
 
 ![Capa](https://user-images.githubusercontent.com/57687300/95137284-a2d3a900-075f-11eb-86d4-b9fc38494a39.jpg)
 
-:rotating_light: ## O Desafio:
+:rotating_light: O Desafio:
 
 A pandemia de COVID-19 trouxe um cenário desafiador para o varejo mundial. A perda de clientes de lojas físicas pela restrição de abertura do comércio e medo dos consumidores de contrair a doença, forçou os logistas à migrarem para o comércio online, e muitos daqueles que não acompanharam a onda tecnológica tiveram que encerrar suas atividades.
 
 Agora, com a vacina da COVID-19 praticamente pronta, o comércio de rua se vê de frente à outro desafio: trazer os clientes de fora. Buscando
 
 
-💡 ## Nossa Solução: 
+💡 Nossa Solução: 
 
 Segundo a pesquisa realizada pelo nosso grupo entre 25/09/20 e 02/10/20 em mídias sociais, e outras fontes, o consumidor ainda não se sente seguro em voltar à utilizar o comércio físico (38.6%), mas sente falta das facilidades encontradas nesse tipo de mercado, como consultoria sobre os produtos (57.1%) e liberdade para escolha de produtos (67%).
 
