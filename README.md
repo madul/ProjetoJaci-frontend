@@ -15,7 +15,16 @@ Nossa Solução:
 
 Segundo a pesquisa realizada pelo nosso grupo entre 25/09/20 e 02/10/20 em mídias sociais, e outras fontes, o consumidor ainda não se sente seguro em voltar à utilizar o comércio físico (38.6%), mas sente falta das facilidades encontradas nesse tipo de mercado, como consultoria sobre os produtos (57.1%) e liberdade para escolha de produtos (67%).
 
-Ouvindo o público, percebemos que fatores como número de pessoas na loja (46.2%), amostras de uso único (60.4%) e compra com contato 
+Ouvindo o público, percebemos que fatores como número de pessoas na loja (46.2%), amostras de uso único (60.4%) e compra com contato contato mínimo (49.5%) ajudam na retomada do engajamento do consumidor com o varejo.
+
+Com base nesses dados e com a ajuda da plataforma Eugenio e insipiração da deusa Tupi, trouxemos o Projeto Jaci: um novo conceito de loja que utiliza a tecnologia para focar no cuidado com o bem estar e segurança do consumidor.
+
+No hackathon focamos em duas frentes, implementadas em um aplicativo: 
+
+- o controle do número de pessoas dentro do estabelecimento, por meio de sensores integrados à plataforma Eugenio. A informação do número de pessoas em cada loja será disponibilizado no aplicativo Natura, onde o cliente poderá agendar o horário para ir à loja, com ou sem consultoria especializada;
+
+- a experiência de compra com o contato mínimo. Por meio do aplicativo Natura, ou dispositivos disponíveis nas loja, o cliente poderá optar por fazer a experiência inteira da compra, escaneando os QR codes dos produtos dispostos e enchendo o seu carrinho virtual. O pagamento poderá também ser feito pelo aplicativo, evitando ao máximo contato com produto e outras ferramentas. 
+
 
 
 :hammer: Fluxo Agendamento
