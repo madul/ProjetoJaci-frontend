@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ::rocket::
 ###### FrontEnd(Mobile)
 
@@ -65,3 +66,6 @@ Ouvindo o público, percebemos que fatores como número de pessoas na loja (46.2
 @NaturaStore/Dev-be
 
 
+=======
+# frontend
+>>>>>>> origin/master
