@@ -8,7 +8,7 @@
 
 A pandemia de COVID-19 trouxe um cenário desafiador para o varejo mundial. A perda de clientes de lojas físicas pela restrição de abertura do comércio e medo dos consumidores de contrair a doença, forçou os logistas à migrarem para o comércio online, e muitos daqueles que não acompanharam a onda tecnológica tiveram que encerrar suas atividades.
 
-Agora, com a vacina da COVID-19 praticamente pronta, o comércio de rua se vê de frente à outro desafio: trazer os clientes de fora. Buscando
+Agora, com a vacina da COVID-19 praticamente pronta, o comércio de rua se vê de frente à outro desafio: trazer os clientes de fora. Buscando solucionar esse problema, Eugenio e Natura se juntaram para lançar a primeira etapa do hackathon Eugenio Challenge Hub.
 
 
 💡 Nossa Solução: 
